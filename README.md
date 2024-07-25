@@ -9,7 +9,7 @@
 
 
 <!--- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa-->
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;Conéctate conmigo en **[LinkedIn]**
 - 📫 How to reach me **isc.patricio@gmail.com**
 - 📝 I studied at Tecnológico Nacional de México
 - 💬 Ask me about: anything, I am happy to help
