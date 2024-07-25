@@ -10,7 +10,7 @@
 
 <!--- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa-->
 - :computer: &nbsp;Conéctate conmigo en **[LinkedIn]**
-- 📫 Cómo contactarme **isc.JeliasOctavio@gmail.com**
+- 📫 Cómo contactarme **JeliasOctavio@gmail.com**
 - 📝 Estudie en el Instituto Tecnologico de las Americas
 - 💬 Preguntame sobre: cualquier cosa, Estare feliz en ayudar
 - 	<img src="https://komarev.com/ghpvc/?username=iscpatricio92&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" /> 
