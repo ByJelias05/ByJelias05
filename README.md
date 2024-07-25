@@ -1,10 +1,14 @@
  <img align="right" height="240px" alt="guy" width="320" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
  
-### <h1>Hola a todos 👋 Soy Jelias Garcia</h1>
+<div align="center">
+  <h1>Hola a todos 👋 Soy Jelias Garcia</h1>
+  <blockquote>
+    Soy Jelias Octavio García Sierra, un joven de 21 años de edad que ha dedicado los últimos tres años a mi formación como programador. Durante este tiempo, he adquirido experiencia en el desarrollo de aplicaciones web y de escritorio, abarcando tanto el frontend como el backend, lo que me ha permitido desarrollar habilidades FullStack. Aunque me considero un programador junior, estoy comprometido con mi crecimiento profesional y estoy entusiasmado por seguir aprendiendo y creciendo en este apasionante campo.
+  </blockquote>
+  <br />
+</div>
 
-> Soy Jelias Octavio García Sierra, un joven de 21 años de edad que ha dedicado los últimos tres años a mi formación como programador. Durante este tiempo, he adquirido experiencia en el desarrollo de aplicaciones web y de escritorio, abarcando tanto el frontend como el backend, lo que me ha permitido desarrollar habilidades FullStack. Aunque me considero un programador junior, estoy comprometido con mi crecimiento profesional y estoy entusiasmado por seguir aprendiendo y creciendo en este apasionante campo.
-<br />
 
 <!--- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa-->
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
