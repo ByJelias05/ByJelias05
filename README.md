@@ -1,5 +1,3 @@
- <img align="right" height="240px" alt="guy" width="320" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
-
  
 <div align="center">
   <h1>Hola a todos 👋 Soy Jelias Garcia</h1>
