@@ -55,6 +55,35 @@
     
 </p>
 
+## Mis últimos proyectos
+
+<table>
+  <tr>
+    <td style="padding: 10px;">
+      <img src="ruta/a/la/imagen1.jpg" alt="Proyecto 1" style="width: 100%; height: auto;">
+      <div style="padding: 10px;">
+        <strong>Título del Proyecto 1</strong>
+        <p>Web</p>
+      </div>
+    </td>
+    <td style="padding: 10px;">
+      <img src="ruta/a/la/imagen2.jpg" alt="Proyecto 2" style="width: 100%; height: auto;">
+      <div style="padding: 10px;">
+        <strong>Título del Proyecto 2</strong>
+        <p>Escritorio</p>
+      </div>
+    </td>
+    <td style="padding: 10px;">
+      <img src="ruta/a/la/imagen3.jpg" alt="Proyecto 3" style="width: 100%; height: auto;">
+      <div style="padding: 10px;">
+        <strong>Título del Proyecto 3</strong>
+        <p>Mobile</p>
+      </div>
+    </td>
+  </tr>
+  <!-- Añadir más filas si es necesario -->
+</table>
+
 
 <br><br>
 
