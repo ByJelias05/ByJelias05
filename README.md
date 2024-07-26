@@ -61,22 +61,22 @@
     <td align="center" style="padding: 20px; width: 33%;">
       <img src="/Imagenes/SkyCast.png" alt="Proyecto 1" style="width: 100%; height: auto;">
       <div style="padding: 20px;">
-        <strong style="font-size: 1.5em;">Título del Proyecto 1</strong>
-        <p style="font-size: 1.2em;">Web</p>
+      <p style="font-size: 1.2em;">Escritorio</p>
+        <strong style="font-size: 1.5em;">🌦️ Aplicación Climática SkyCast ☀️🌧️❄️</strong>
       </div>
     </td>
     <td align="center" style="padding: 20px; width: 33%;">
       <img src="/Imagenes/EasyBank.png" alt="Proyecto 1" style="width: 100%; height: auto;">
       <div style="padding: 20px;">
-        <strong style="font-size: 1.5em;">Título del Proyecto 1</strong>
-        <p style="font-size: 1.2em;">Web</p>
+      <p style="font-size: 1.2em;">Web</p>
+        <strong style="font-size: 1.5em;">🏦 Aplicación Bancaria Easy Bank 💳📈📲</strong>
       </div>
     </td>
     <td align="center" style="padding: 20px; width: 33%;">
       <img src="/Imagenes/ClothCraze.png" alt="Proyecto 2" style="width: 100%; height: auto;">
       <div style="padding: 20px;">
-        <strong style="font-size: 1.5em;">Título del Proyecto 2</strong>
         <p style="font-size: 1.2em;">Escritorio</p>
+        <strong style="font-size: 1.5em;">🛍️ Tienda Online Cloth Craze 👗👚🛒</strong>
       </div>
     </td>
   </tr>
@@ -84,15 +84,15 @@
     <td align="center" style="padding: 20px; width: 33%;">
       <img src="/Imagenes/JelSox.png" alt="Proyecto 3" style="width: 100%; height: auto;">
       <div style="padding: 20px;">
-        <strong style="font-size: 1.5em;">Título del Proyecto 3</strong>
-        <p style="font-size: 1.2em;">Mobile</p>
+      <p style="font-size: 1.2em;">Web</p>
+        <strong style="font-size: 1.5em;">🛒 Tienda Online Jelsox 👕👖🕶️</strong> 
       </div>
     </td>
     <td align="center" style="padding: 20px; width: 33%;">
       <img style="border-radius: 50%;" src="/Imagenes/HouseShopping.png" alt="Proyecto 3" style="width: 100%; height: auto;">
       <div style="padding: 20px;">
-        <strong style="font-size: 1.5em;">Título del Proyecto 3</strong>
-        <p style="font-size: 1.2em;">Mobile</p>
+      <p style="font-size: 1.2em;">Mobile</p>
+        <strong style="font-size: 1.5em;">🏠 Revista de Casas House Shopping 🛋️📚✨</strong>
       </div>
     </td>
     <!-- Añadir más celdas si es necesario -->
