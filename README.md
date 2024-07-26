@@ -62,21 +62,21 @@
       <img src="/Imagenes/SkyCast.png" alt="Proyecto 1" style="width: 100%; height: auto;">
       <div style="padding: 20px;">
       <p style="font-size: 1.2em;">Escritorio</p>
-        <strong style="font-size: 1.5em;">🌦️ Aplicación Climática SkyCast ☀️🌧️❄️</strong>
+        <strong style="font-size: 1.5em;">🌦️ Aplicación Climática "SkyCast" ☀️🌧️❄️</strong>
       </div>
     </td>
     <td align="center" style="padding: 20px; width: 33%;">
       <img src="/Imagenes/EasyBank.png" alt="Proyecto 1" style="width: 100%; height: auto;">
       <div style="padding: 20px;">
       <p style="font-size: 1.2em;">Web</p>
-        <strong style="font-size: 1.5em;">🏦 Aplicación Bancaria Easy Bank 💳📈📲</strong>
+        <strong style="font-size: 1.5em;">🏦 Aplicación Bancaria "Easy Bank" 💳📈📲</strong>
       </div>
     </td>
     <td align="center" style="padding: 20px; width: 33%;">
       <img src="/Imagenes/ClothCraze.png" alt="Proyecto 2" style="width: 100%; height: auto;">
       <div style="padding: 20px;">
         <p style="font-size: 1.2em;">Escritorio</p>
-        <strong style="font-size: 1.5em;">🛍️ Tienda Online Cloth Craze 👗👚🛒</strong>
+        <strong style="font-size: 1.5em;">🛍️ Tienda Online "Cloth Craze" 👗👚🛒</strong>
       </div>
     </td>
   </tr>
@@ -85,14 +85,14 @@
       <img src="/Imagenes/JelSox.png" alt="Proyecto 3" style="width: 100%; height: auto;">
       <div style="padding: 20px;">
       <p style="font-size: 1.2em;">Web</p>
-        <strong style="font-size: 1.5em;">🛒 Tienda Online Jelsox 👕👖🕶️</strong> 
+        <strong style="font-size: 1.5em;">🛒 Tienda Online "Jelsox" 👕👖🕶️</strong> 
       </div>
     </td>
     <td align="center" style="padding: 20px; width: 33%;">
       <img style="border-radius: 50%;" src="/Imagenes/HouseShopping.png" alt="Proyecto 3" style="width: 100%; height: auto;">
       <div style="padding: 20px;">
       <p style="font-size: 1.2em;">Web</p>
-        <strong style="font-size: 1.5em;">🏠 Revista de Casas House Shopping 🛋️📚✨</strong>
+        <strong style="font-size: 1.5em;">🏠 Revista de Casas "House Shopping" 🛋️📚✨</strong>
       </div>
     </td>
     <!-- Añadir más celdas si es necesario -->
