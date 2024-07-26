@@ -156,6 +156,4 @@
 
 <br>
 
-Credit:[iscpatricio92](https://github.com/iscpatricio92) Last Edit on 19/04/2024
-
 >>>>>>> 9de4d103b816bdf4b8b5eea4392490fc23a9e515
