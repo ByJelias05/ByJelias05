@@ -17,7 +17,7 @@
 	<a href="https://github.com/iscpatricio92?tab=followers"><img src="https://img.shields.io/github/followers/iscpatricio92?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
 
-## 💻 Tecnologias y herramientas para la web
+## 🌐 Tecnologias y herramientas para la web
 
 <div>
   <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -39,7 +39,7 @@
  <br><br>
 </div>
 
- ## 🛠️ Tecnologias y herramientas para el escritorio
+ ## 💻 Tecnologias y herramientas para el escritorio
  
 <div>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
