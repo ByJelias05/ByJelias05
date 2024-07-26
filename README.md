@@ -1,6 +1,3 @@
-
-=======
- 
 <div align="center">
   <h1>Hola a todos 👋 Soy Jelias Garcia</h1>
   <blockquote>
