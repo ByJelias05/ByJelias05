@@ -81,6 +81,8 @@
         <p style="font-size: 1.2em;">Escritorio</p>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 20px; width: 33%;">
       <img src="/Imagenes/JelSox.png" alt="Proyecto 3" style="width: 100%; height: auto;">
       <div style="padding: 20px;">
@@ -88,11 +90,9 @@
         <p style="font-size: 1.2em;">Mobile</p>
       </div>
     </td>
+    <!-- Añadir más celdas si es necesario -->
   </tr>
-  <!-- Añadir más filas si es necesario -->
 </table>
-
-
 
 
 
