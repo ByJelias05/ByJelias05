@@ -84,7 +84,7 @@
       </div>
     </td>
     <td align="center" style="padding: 20px; width: 33%;">
-      <img src="/Imagenes/ImageEscritorio.png" alt="Proyecto 3" style="width: 100%; height: auto;">
+      <img src="/Imagenes/JelSox.png" alt="Proyecto 3" style="width: 100%; height: auto;">
       <div style="padding: 20px;">
         <strong style="font-size: 1.5em;">Título del Proyecto 3</strong>
         <p style="font-size: 1.2em;">Mobile</p>
