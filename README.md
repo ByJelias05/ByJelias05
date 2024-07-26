@@ -150,7 +150,7 @@
 <a href="https://www.linkedin.com/in/jelias-garcia-sierra-954541290/" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="iscpatricio92" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC-l7UF5AqYMr3G69qtIQJFA" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="iscpatricio" height="30" width="40" /></a>
 <a href="mailTo:isc.JeliasOCtavio@gmail.com" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="JeliasOCtavio@gmail.com" height="30" width="40" /></a>
-<a href="https://github.com/ByJelias05/ByJelias05" target="blank"> <img align="center" alt="https://github.com/iscpatricio92" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
+<a href="https://github.com/ByJelias05" target="blank"> <img align="center" alt="https://github.com/ByJelias05" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
 </p>
 <br>
 
