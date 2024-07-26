@@ -35,7 +35,10 @@
   <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/context%20api-%23000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
+  <img src="https://img.shields.io/badge/JWT-%23272B2D.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/nodemon-%234A6E8C.svg?style=for-the-badge&logo=nodemon&logoColor=white" />
+  <img src="https://img.shields.io/badge/react%20router-%23282c34.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/vite-%235D87FF.svg?style=for-the-badge&logo=vite&logoColor=white" />
 
  <br><br>
 </div>
