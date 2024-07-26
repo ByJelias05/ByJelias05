@@ -91,7 +91,7 @@
     <td align="center" style="padding: 20px; width: 33%;">
       <img style="border-radius: 50%;" src="/Imagenes/HouseShopping.png" alt="Proyecto 3" style="width: 100%; height: auto;">
       <div style="padding: 20px;">
-      <p style="font-size: 1.2em;">Mobile</p>
+      <p style="font-size: 1.2em;">Web</p>
         <strong style="font-size: 1.5em;">🏠 Revista de Casas House Shopping 🛋️📚✨</strong>
       </div>
     </td>
