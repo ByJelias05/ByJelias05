@@ -70,6 +70,13 @@
       </div>
     </td>
     <td align="center" style="padding: 20px; width: 33%;">
+      <img src="/Imagenes/EasyBAnk.png" alt="Proyecto 1" style="width: 100%; height: auto;">
+      <div style="padding: 20px;">
+        <strong style="font-size: 1.5em;">Título del Proyecto 1</strong>
+        <p style="font-size: 1.2em;">Web</p>
+      </div>
+    </td>
+    <td align="center" style="padding: 20px; width: 33%;">
       <img src="/Imagenes/ImageWeb.png" alt="Proyecto 2" style="width: 100%; height: auto;">
       <div style="padding: 20px;">
         <strong style="font-size: 1.5em;">Título del Proyecto 2</strong>
