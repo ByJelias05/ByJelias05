@@ -57,31 +57,33 @@
 
 ## Mis últimos proyectos
 
-<table align="center">
+<table align="center" style="width: 100%;">
   <tr>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 20px; width: 33%;">
       <img src="ruta/a/la/imagen1.jpg" alt="Proyecto 1" style="width: 100%; height: auto;">
-      <div style="padding: 10px;">
-        <strong>Título del Proyecto 1</strong>
-        <p>Web</p>
+      <div style="padding: 20px;">
+        <strong style="font-size: 1.5em;">Título del Proyecto 1</strong>
+        <p style="font-size: 1.2em;">Web</p>
       </div>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 20px; width: 33%;">
       <img src="ruta/a/la/imagen2.jpg" alt="Proyecto 2" style="width: 100%; height: auto;">
-      <div style="padding: 10px;">
-        <strong>Título del Proyecto 2</strong>
-        <p>Escritorio</p>
+      <div style="padding: 20px;">
+        <strong style="font-size: 1.5em;">Título del Proyecto 2</strong>
+        <p style="font-size: 1.2em;">Escritorio</p>
       </div>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 20px; width: 33%;">
       <img src="ruta/a/la/imagen3.jpg" alt="Proyecto 3" style="width: 100%; height: auto;">
-      <div style="padding: 10px;">
-        <strong>Título del Proyecto 3</strong>
-        <p>Mobile</p>
+      <div style="padding: 20px;">
+        <strong style="font-size: 1.5em;">Título del Proyecto 3</strong>
+        <p style="font-size: 1.2em;">Mobile</p>
       </div>
     </td>
   </tr>
-  <!-- Añadir más filas si es necesario
+  <!-- Añadir más filas si es necesario -->
+</table>
+
 
 
 
