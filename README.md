@@ -39,6 +39,8 @@
   <img src="https://img.shields.io/badge/nodemon-%234A6E8C.svg?style=for-the-badge&logo=nodemon&logoColor=white" />
   <img src="https://img.shields.io/badge/react%20router-%23282c34.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/vite-%235D87FF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
 
  <br><br>
 </div>
