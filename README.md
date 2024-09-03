@@ -125,7 +125,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iscpatricio92&show_icons=true&locale=en&theme=chartreuse-dark" alt="iscpatricio92" width="410"/>
 </p> -->
 
-<br><br><br><br><br><br><br><br>
+<br><br>
 
 <!-- ![Patricio's Graph](https://github-readme-activity-graph.vercel.app/graph?username=iscpatricio92&custom_title=Patricio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
@@ -135,7 +135,7 @@
 <br>
 
 
-<p align="center">
+<!-- <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=iscpatricio92&layout=compact&theme=algolia" alt="iscpatricio92" />
  </a>
@@ -146,7 +146,7 @@
 <p align="center">
   <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg"
     alt="iscpatricio92" />
-</p>
+</p> -->
 
 
 <br>
