@@ -12,8 +12,8 @@
 - 📫 Cómo contactarme **JeliasOctavio@gmail.com**
 - 📝 Estudie en el Instituto Tecnologico de las Americas
 - 💬 Preguntame sobre: cualquier cosa, Estare feliz en ayudar
-- 	<img src="https://komarev.com/ghpvc/?username=iscpatricio92&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" /> 
-	<a href="https://github.com/iscpatricio92?tab=followers"><img src="https://img.shields.io/github/followers/iscpatricio92?label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- - 	<img src="https://komarev.com/ghpvc/?username=iscpatricio92&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" /> 
+	<a href="https://github.com/iscpatricio92?tab=followers"><img src="https://img.shields.io/github/followers/iscpatricio92?label=Followers&style=social" alt="GitHub Badge"></a> -->
 <br><br>
 
 ## 🌐 Tecnologias y herramientas para la web
